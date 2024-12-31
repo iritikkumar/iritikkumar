@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ritik Kumar</h1>
 <h3 align="center">A passionate fullstack web developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://tenor.com/en-GB/view/programmer-gif-19019116">
+<img align="right" alt="Coding" width="400" src="https://c.tenor.com/NOYF3f82b_gAAAAd/tenor.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iritikkumar&label=Profile%20views&color=0e75b6&style=flat" alt="iritikkumar" /> </p>
 
