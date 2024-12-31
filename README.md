@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently working on <a href = "https://github.com/iritikkumar/rentMyCar">rentMyCar</a>
+- 🌱 I’m currently working on <a href = "https://github.com/timelessTastes/">timelessTastes</a>
 
-- 💬 Ask me about *MERN*
+- 💬 Ask me about MERN, Java, Spring Boot
 
 - 📫 How to reach me *iritikkumar7@gmail.com*
 
